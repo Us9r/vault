@@ -16,14 +16,9 @@ Algoritma K-Means berhasil mengidentifikasi 3 kluster toko Indomaret dengan kara
 *   **Kluster 1 ("Alternatif ke-1"):** Rating menengah, jumlah ulasan sedang, di area kepadatan terendah tanpa Alfamart di dekatnya. Menunjukkan potensi pertumbuhan di lingkungan yang lebih tenang.
 *   **Kluster 2 ("Alternatif ke-2"):** Rating sedikit lebih rendah, jumlah ulasan tertinggi, di area kepadatan tertinggi dengan persaingan paling ketat. Mewakili toko populer di lokasi ramai dengan tantangan mempertahankan rating di tengah volume tinggi dan kompetisi.
 
-### Manfaat:
-
-*   **Calon Pelanggan:** Membantu memilih toko Indomaret sesuai preferensi (rating, lokasi, tingkat keramaian/kompetisi).
-*   **Indomaret:** Memberikan basis data untuk strategi pemasaran yang lebih terarah, manajemen operasional yang efisien, dan perencanaan ekspansi.
-
 ### Kesimpulan:
 
-Proyek ini berhasil mengungkap pola tersembunyi dalam data toko Indomaret di Palembang, memberikan wawasan berharga untuk optimalisasi bisnis dan pengalaman pelanggan.
+Proyek ini berhasil mengungkap pola tersembunyi dalam data toko Indomaret di Palembang
 
 ### Peta Interaktif:
 
